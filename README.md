@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hii 👋 I'm Atharv Karnekar
 Frontend developer who enjoys building things that actually work in production — not just demos.<br><br>I specialize in React and modern web stacks, with a focus on scalable architectures, real-time features, and clean UI systems. I like solving tricky problems, optimizing performance, and making complex interfaces feel simple.
 
 
